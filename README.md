@@ -13,5 +13,3 @@ o triplo da taxa.
 Maria Fernanda 
 # Professor: 
 Túlio Marcos
-
-https://tenor.com/ty5T.gif
