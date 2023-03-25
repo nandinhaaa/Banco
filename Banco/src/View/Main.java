@@ -11,7 +11,8 @@ public class Main {
 		Conta c = new Conta(1000, "Maria", 1);
 		contaCorrente cc = new contaCorrente(1000, "Fernanda", 2);
 		contaPoupanca cp = new contaPoupanca(1000, "Tulio", 3);
-
+		
+		c.deposita(100);
 		cc.deposita(430.0);
 		cp.deposita(420.0);
 
