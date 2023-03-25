@@ -7,7 +7,7 @@ reescrito: A ContaCorrente deve atualizar-se com o dobro da taxa e a ContaPoupan
 o triplo da taxa.
 
 # Conclusão
-![image](https://user-images.githubusercontent.com/91507393/227744888-fcafa511-42bb-4fc0-a432-a924502ecf45.png)
+![image](https://user-images.githubusercontent.com/91507393/227746441-63463378-1995-437d-bf92-971955501e5d.png)
 
 # Feito por: 
 Maria Fernanda 
